@@ -1,0 +1,2 @@
+C:\Users\aluno\source\repos\Potencia\Potencia\obj\Debug\Potencia.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Potencia\Potencia\obj\Debug\Potencia.csproj.CoreCompileInputs.cache
