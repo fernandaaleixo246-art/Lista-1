@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Diagonal\Diagonal\bin\Debug\Diagonal.exe.config
+C:\Users\aluno\source\repos\Diagonal\Diagonal\bin\Debug\Diagonal.exe
+C:\Users\aluno\source\repos\Diagonal\Diagonal\bin\Debug\Diagonal.pdb
+C:\Users\aluno\source\repos\Diagonal\Diagonal\obj\Debug\Diagonal.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Diagonal\Diagonal\obj\Debug\Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Diagonal\Diagonal\obj\Debug\Diagonal.exe
+C:\Users\aluno\source\repos\Diagonal\Diagonal\obj\Debug\Diagonal.pdb
