@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Média\Média\bin\Debug\Média.exe.config
+C:\Users\aluno\source\repos\Média\Média\bin\Debug\Média.exe
+C:\Users\aluno\source\repos\Média\Média\bin\Debug\Média.pdb
+C:\Users\aluno\source\repos\Média\Média\obj\Debug\Média.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Média\Média\obj\Debug\Média.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Média\Média\obj\Debug\Média.exe
+C:\Users\aluno\source\repos\Média\Média\obj\Debug\Média.pdb
+C:\Users\aluno\source\repos\Média\Média\obj\Debug\Média.exe.config
