@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Quilometros\Quilometros\obj\Debug\Quilometros.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Quilometros\Quilometros\obj\Debug\Quilometros.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Quilometros\Quilometros\bin\Debug\Quilometros.exe.config
+C:\Users\aluno\source\repos\Quilometros\Quilometros\bin\Debug\Quilometros.exe
+C:\Users\aluno\source\repos\Quilometros\Quilometros\bin\Debug\Quilometros.pdb
+C:\Users\aluno\source\repos\Quilometros\Quilometros\obj\Debug\Quilometros.exe
+C:\Users\aluno\source\repos\Quilometros\Quilometros\obj\Debug\Quilometros.pdb
+C:\Users\aluno\source\repos\Quilometros\Quilometros\obj\Debug\Quilometros.exe.config
